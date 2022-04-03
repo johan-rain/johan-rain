@@ -2,7 +2,7 @@
 
 # Johan Ranestam
 
-## 🃏 Spiders are the only web-developers who enjoy finding bugs. 🕷
+## 🃏 Spiders are the only web-developers who enjoy finding bugs.🃏
 
 ## About me:
 - 🌱 Currently a student at Medieinstitutet, learning Front End Development.
@@ -15,7 +15,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1d1f21?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-1d1f21?style=for-the-badge&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
@@ -49,7 +47,11 @@ Here are some ideas to get you started:
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
 
-<br>
+
+## 🌱 I’m currently learning ...
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vuejs](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## 📬 Contact:
 
