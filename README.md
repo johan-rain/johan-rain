@@ -1,4 +1,4 @@
-### Johan Ranestam
+# Johan Ranestam
 
 ## About me:
 - 🌱 Currently a student at Medieinstitutet, learning Front End Development.
