@@ -1,3 +1,5 @@
+### Johan Ranestam
+
 ## About me:
 - 🌱 Currently a student at Medieinstitutet, learning Front End Development.
 - 🕹 Love gaming
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📈 Stats & Skills:
+## Stats & Skills:
 
 <a href="https://github.com/johan-rain">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-rain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FF4797&bg_color=1d1f21" alt="Johan Rain's GitHub Stats" />
