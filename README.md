@@ -1,3 +1,5 @@
+![banner](https://github.com/johan-rain/johan-rain/blob/main/dino.gif)
+
 # Johan Ranestam
 
 ## 🃏 Spiders are the only web-developers who enjoy finding bugs. 🕷
