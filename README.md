@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 ## 📈 Stats & Skills:
 
 <a href="https://github.com/johan-rain">
