@@ -1,4 +1,4 @@
-## 🤓 About me:
+## About me:
 - 🌱 Currently a student at Medieinstitutet, learning Front End Development.
 - 🕹 Love gaming
 - 🙏 Feedback is always welcome.
