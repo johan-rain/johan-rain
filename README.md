@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 ## 📬 Contact:
 
-[<img src="https://github.com/johan-rain/rain/blob/main/twitter-icon.png" height="40em" align="center"/>](https://twitter.com/johan_rain_)
-[<img src="https://github.com/johan-rain/rain/blob/main/li-icon.png" height="40em" align="center" />](https://www.linkedin.com/in/johan-ranestam-129412220/)
+[<img src="https://github.com/johan-rain/johan-rain/main/twitter-icon.png" height="40em" align="center"/>](https://twitter.com/johan_rain_)
+[<img src="https://github.com/johan-rain/johan-rain/main/li-icon.png" height="40em" align="center" />](https://www.linkedin.com/in/johan-ranestam-129412220/)
