@@ -1,6 +1,9 @@
-![banner](https://github.com/johan-rain/johan-rain/blob/main/dino.gif)
 
-# <h1 align="center"> Johan Ranestam </h1>
+<p align="center">
+  <img src="https://github.com/johan-rain/johan-rain/blob/main/dino.gif" alt="animated" />
+</p>
+
+<h1 align="center"> Johan Ranestam </h1>
 <h3 align="center"> 🃏 Spiders are the only web-developers who enjoy finding bugs.🃏</h3>
 
 ## About me:
@@ -22,6 +25,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊 My Github Stats
+
+<br/>
+<a href="https://github.com/johan-rain/github-readme-stats"><img alt="Johan Ranestam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=johan-rain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/johan-rain/github-readme-stats"><img alt="Johan Ranestam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-rain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/johan-rain/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=johan-rain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!--
 ## Stats & Skills:
 <br>
 <a href="https://github.com/johan-rain">
@@ -30,9 +48,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/johan-rain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-rain&theme=noctis_minimus" />
 </a>
+-->
 
-<br>
-<br>
+## Skills that I've learned, not yet perfected.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
