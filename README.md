@@ -39,17 +39,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/johan-rain/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=johan-rain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<!--
-## Stats & Skills:
-<br>
-<a href="https://github.com/johan-rain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-rain&show_icons=true&theme=noctis_minimus&line_height=27" alt="Johan Rain's GitHub Stats" />
-</a>
-<a href="https://github.com/johan-rain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-rain&theme=noctis_minimus" />
-</a>
--->
-
 ## Skills that I've learned, not yet perfected.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
