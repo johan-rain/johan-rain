@@ -5,8 +5,8 @@
 
 ## About me:
 - 🌱 Currently a student at Medieinstitutet, learning Front End Development.
-- 🕹 Love gaming
-- 🙏 Feedback is always welcome.
+- 🙏 I'm always open for constructive criticism.
+- 🕹 Love gaming.
 
 <!--
 **johan-rain/johan-rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
