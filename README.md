@@ -52,7 +52,10 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vuejs](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-## 📬 Contact:
+## Connect with me:
+<p align="left">
 
-[<img src="https://github.com/johan-rain/johan-rain/blob/main/twitter-icon.png" height="40em" align="center"/>](https://twitter.com/johan_rain_)
-[<img src="https://github.com/johan-rain/johan-rain/blob/main/li-icon.png" height="40em" align="center" />](https://www.linkedin.com/in/johan-ranestam-129412220/)
+<a href = "https://www.linkedin.com/in/johan-ranestam-129412220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/johan_rain_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
