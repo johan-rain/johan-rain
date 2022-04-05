@@ -1,7 +1,7 @@
 ![banner](https://github.com/johan-rain/johan-rain/blob/main/dino.gif)
 
 # <h1 align="center"> Johan Ranestam </h1>
-<h2 align="center"> 🃏 Spiders are the only web-developers who enjoy finding bugs.🃏</h2>
+<h3 align="center"> 🃏 Spiders are the only web-developers who enjoy finding bugs.🃏</h3>
 
 ## About me:
 - 🌱 Currently a student at Medieinstitutet, learning Front End Development.
